@@ -5,5 +5,5 @@ The Magical Arena is a simple Java program that simulates battles between two pl
 
 ## Requirements
 - Java Development Kit (JDK) 8 or later
-- IntelliJ IDEA (optional, for development)
-- Git (optional, for version control)
+- IntelliJ IDEA 
+- Git 
